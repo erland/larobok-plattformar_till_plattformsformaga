@@ -1,0 +1,54 @@
+title: Från plattformar till plattformsförmåga
+subtitle: Ledningsstrategier för agilare leverans i stora reglerade organisationer
+author: Erland Lindmark
+language: sv
+difficulty: experienced
+audience: Chefer i stora reglerade organisationer med ansvar för produktion, utveckling,
+  säkerhet, arkitektur, förvaltning eller plattform.
+book_type: textbook
+edition: '1'
+version: '1.1'
+date: '2026-05-15'
+rights: All rights reserved
+publisher: ''
+cover_image: assets/cover/cover.png
+identifier: urn:uuid:71300143-150d-4683-8c40-f85828c67058
+creator_role: aut
+subject: Ledningsstrategi, plattformsförmåga, containerplattformar, reglerade organisationer,
+  agil leverans
+description: En ledningsstrategisk lärobok om hur stora reglerade organisationer kan
+  gå från beställningsflöden till plattformsförmåga, självservice och bättre agil
+  leverans utan att tappa säkerhet, kvalitet, tillgänglighet och robusthet.
+project_slug: fran-plattformar-till-plattformsformaga
+zip_naming:
+  initial: fran-plattformar-till-plattformsformaga-projekt.zip
+  chapter_update: fran-plattformar-till-plattformsformaga-projekt-kapitel-NN.zip
+chapters:
+- chapters/00-inledning.md
+- chapters/01-nulaget-nar-varje-funktion-optimerar-sin-egen-vardag.md
+- chapters/02-den-verkliga-malbilden.md
+- chapters/03-containerplattformen-som-strategiskt-vagval.md
+- chapters/04-fran-miljobestallningar-till-plattformsprodukter.md
+- chapters/05-ledningens-ansvar.md
+- chapters/06-sakerhet-som-inbyggd-styrning.md
+- chapters/07-robusthet-tillganglighet-och-kvalitet.md
+- chapters/08-greenfield-eller-forandring-i-befintlig-organisation.md
+- chapters/09-overgangslaget.md
+- chapters/10-styrning-finansiering-och-prioritering.md
+- chapters/11-inforandestrategi-for-ledningen.md
+- chapters/12-den-gemensamma-spelplanen.md
+exports:
+  epub:
+    enabled: true
+    include_text_toc: false
+    airy_layout: true
+    render_markdown_styles: true
+  pdf:
+    enabled: true
+    include_toc_before_introduction: true
+    render_markdown_styles: true
+  docx:
+    enabled: true
+    render_markdown_styles: true
+  markdown:
+    enabled: true
