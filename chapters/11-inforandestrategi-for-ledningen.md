@@ -535,7 +535,7 @@ Exempel:
 - Ledningen behöver fatta tidiga beslut om pilotval, risknivå, produktionskrav, undantag och finansiering.
 - Gamla arbetssätt måste successivt minska, annars blir plattformen ett sidospår.
 
-## Ledningsfrågor
+## Kontrollfrågor
 
 1. Varför är en pilot som bara testar teknik otillräcklig i en stor reglerad organisation?
 2. Vilka egenskaper bör ett bra pilotområde ha?

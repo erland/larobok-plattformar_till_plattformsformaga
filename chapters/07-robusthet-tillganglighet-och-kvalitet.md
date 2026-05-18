@@ -442,7 +442,7 @@ Syftet är att se om undantag används som lärande eller som permanent genväg.
 - Ledningen måste besluta vilka krav som är obligatoriska, vilka som beror på riskklass och hur undantag hanteras.
 - Driftorganisationens erfarenhet bör översättas till plattformsmallar, kontroller och självserviceflöden.
 
-## Ledningsfrågor
+## Kontrollfrågor
 
 1. Vad är skillnaden mellan att en tjänst fungerar och att den är driftbar?
 2. Varför räcker det inte att containerplattformen har tekniska funktioner för återstart och resurshantering?

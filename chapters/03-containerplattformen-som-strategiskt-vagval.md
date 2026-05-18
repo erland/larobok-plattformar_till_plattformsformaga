@@ -471,7 +471,7 @@ Välj inte automatiskt det mest synliga användningsfallet. Välj det användnin
 - Plattformen bör finansieras och styras som en långsiktig intern produkt, inte bara som ett införandeprojekt.
 - Ledningen behöver välja första användningsfall med omsorg. Fel första fall kan skapa motstånd, risk och felaktiga slutsatser.
 
-## Ledningsfrågor
+## Kontrollfrågor
 
 1. På vilket sätt är en containerplattform ett strategiskt vägval i er organisation?
 2. Ser ni i dag plattformen främst som infrastruktur, intern produkt eller förändringsmotor?

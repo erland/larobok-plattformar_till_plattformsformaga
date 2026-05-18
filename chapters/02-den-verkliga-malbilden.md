@@ -293,7 +293,7 @@ Välj ett område som kandidat för första självserviceförmåga.
 - Självservice behöver definieras som frihet inom ramar, inte som frånvaro av styrning.
 - Ledningen måste göra målkonflikter synliga och fatta beslut om vilka avvägningar som ska gälla.
 
-## Ledningsfrågor
+## Kontrollfrågor
 
 1. Vad är skillnaden mellan att ett utvecklingsteam arbetar agilt och att organisationen har agil förmåga?
 2. Vilka tecken visar att en målbild är för teknikorienterad?

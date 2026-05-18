@@ -4,10 +4,10 @@
 Titel: Från plattformar till plattformsförmåga  
 Språk: Svenska  
 Författare: Erland Lindmark  
-Version: 1.1  
+Version: 1.3  
 
 ## Nuvarande fas
-- Redaktionell bearbetning efter helhetsgranskning
+- Redaktionell bearbetning efter rubrikjustering
 
 ## Kapitelstatus
 
@@ -85,11 +85,35 @@ Version: 1.1
 ## Senaste redaktionella bearbetning
 
 Datum: 2026-05-15  
-Version: 1.1  
+Version: 1.3  
 
 Genomförda ändringar:
 - Kapitel 1–12 har kompletterats med avsnittet **Beslut att fatta** för att göra boken mer handlingsdriven för ledningsgrupper.
-- Rubriken **Quiz/reflektionsfrågor** har ersatts med **Ledningsfrågor** i kapitlen.
+- Rubriken **Quiz/reflektionsfrågor** har ersatts med **Kontrollfrågor** i kapitlen.
 - Kapitel 8 har förstärkts med en mer detaljerad beslutsmatris för greenfield, brownfield och hybrid väg.
 - Kapitel 4 och terminologin har förtydligats med skillnaden mellan plattform som teknik, plattformstjänst, plattformsprodukt och plattformsförmåga.
 - Bokens grundstruktur och kapitelordning är oförändrad.
+
+
+## Redaktionell bearbetning 1.2
+
+Datum: 2026-05-18  
+Version: 1.3
+
+Genomförda ändringar:
+- Inledningen har kompletterats med en tydlig huvudmodell för plattformsförmåga.
+- Kapitel 4 har kompletterats med ett konkret exempel på en intern plattformsprodukt.
+- Kapitel 4, 6 och 10 har harmoniserats så att beslut och ledningsfrågor följer samma struktur.
+- Kapitel 12 har stärkts med en tydligare avslutande rekommendation till ledningen.
+- Terminologi och exportmetadata har uppdaterats.
+
+
+## Redaktionell bearbetning 1.3
+
+Datum: 2026-05-18  
+Version: 1.3
+
+Genomförda ändringar:
+- Rubriken **Ledningsfrågor** har bytts till **Kontrollfrågor** i kapitel 1–12.
+- Avsnittet **Beslut att fatta** finns kvar som plats för praktiska ledningsbeslut.
+- Exportmetadata har uppdaterats till version 1.3.

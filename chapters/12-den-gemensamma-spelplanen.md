@@ -640,7 +640,7 @@ Det sämsta beslutet är ofta inget beslut alls. Då fortsätter piloten som und
 - Mätning ska visa om organisationen fått bättre leveransförmåga, inte bara om fler tekniska komponenter införts.
 - Bokens rekommendationer blir användbara först när de omsätts i återkommande ledningsbeslut.
 
-## Ledningsfrågor
+## Kontrollfrågor
 
 1. Vilka tre målkonflikter är mest synliga i er organisation: snabbhet, säkerhet, robusthet, kostnad, standardisering, självbestämmande eller något annat?
 2. Finns det i dag en beslutad målbild för plattformsförmåga, eller finns flera informella mål samtidigt?
@@ -671,4 +671,8 @@ Bokens kärnfråga kan sammanfattas så här:
 
 **Vilken organisatorisk förmåga måste vi bygga för att modern teknik ska ge verklig effekt utan att vi förlorar den kontroll som vårt uppdrag kräver?**
 
-När ledningen kan svara gemensamt på den frågan har organisationen tagit det viktigaste steget från beställningsflöde till plattformsförmåga.
+Den viktigaste rekommendationen är därför tydlig: behandla inte containerplattformen som ett teknikinförande som kan delegeras nedåt i organisationen. Behandla den som ett ledningsbeslut om hur organisationen ska leverera, styra risk, finansiera gemensamma förmågor och ge team större handlingsutrymme inom tydliga ramar.
+
+Ledningen behöver inte fatta varje tekniskt beslut. Men ledningen måste äga spelplanen. Utan den kommer utveckling, drift, säkerhet och arkitektur fortsätta optimera sina egna delar. Med den kan organisationen börja göra det svårare att göra fel, lättare att göra rätt och möjligt att förändra oftare utan att tappa kontroll.
+
+När ledningen kan svara gemensamt på kärnfrågan har organisationen tagit det viktigaste steget från plattformar till plattformsförmåga.

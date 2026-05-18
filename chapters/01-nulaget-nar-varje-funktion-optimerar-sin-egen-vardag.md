@@ -298,7 +298,7 @@ Avsluta med frågan:
 - Målkonflikter mellan snabbhet, säkerhet, robusthet och standardisering måste hanteras av ledningen.
 - Den centrala frågan är vilka återkommande behov som ska bli standardiserade plattformstjänster i stället för individuella beställningar.
 
-## Ledningsfrågor
+## Kontrollfrågor
 
 1. Vilken lokal optimering i din organisation skapar störst negativ effekt för helheten?
 2. Vilka återkommande beställningar borde inte längre vara beställningar?

@@ -387,16 +387,6 @@ Exempel på princip:
 
 > Behov som minskar upprepade manuella flöden och samtidigt stärker spårbarhet, driftbarhet eller säkerhet prioriteras före behov som bara gynnar ett enskilt team, om inte särskild verksamhetsrisk motiverar undantag.
 
-## Reflektionsfrågor för ledningen
-
-1. Finansierar vi i dag plattformsförmåga som ett projekt, en driftkostnad eller en intern produkt?
-2. Vem äger helheten när utvecklingsteam, drift, säkerhet och ekonomi har motstridiga krav på plattformen?
-3. Finns en synlig backlog för plattformens utveckling, eller styrs prioriteringar informellt?
-4. Har vi reserverad kapacitet för säkerhet, robusthet, uppgraderingar och avveckling?
-5. Vet utvecklingsteamen vilka plattformsförmågor som kommer när, och varför vissa behov prioriteras före andra?
-6. Har vi mätetal som visar både snabbhet, kvalitet, risk och kostnad?
-7. Finns en beslutad modell för vad som händer när införandeprojektet tar slut?
-
 ## Beslut att fatta
 
 - Vilken finansieringsmodell ska ge plattformsförmågan långsiktighet även efter införandeprojektet?
@@ -413,14 +403,16 @@ Exempel på princip:
 - Säkerhet, robusthet, avveckling och livscykelhantering måste ha egen plats i prioriteringen.
 - Ledningen bör styra principer, mandat, risk och kapacitet, inte detaljstyra varje tekniskt beslut.
 
-## Ledningsfrågor
+## Kontrollfrågor
 
-1. Varför är det riskabelt att bara finansiera en plattform som ett införandeprojekt?
-2. Vad skiljer produktägarskap för en intern plattform från traditionellt systemägarskap?
-3. Ge exempel på tre typer av arbete som bör finnas i en plattformsbacklog.
-4. Varför behöver riskreducerande arbete ofta reserverad kapacitet?
-5. Hur kan ett styrforum hjälpa utan att bli en ny flaskhals?
-6. Vilka mätetal skulle kunna visa om plattformen faktiskt ökar organisationens agila förmåga?
+1. Finansierar vi i dag plattformsförmåga som ett projekt, en driftkostnad eller en intern produkt?
+2. Vem äger helheten när utvecklingsteam, drift, säkerhet och ekonomi har motstridiga krav på plattformen?
+3. Finns en synlig backlog för plattformens utveckling, eller styrs prioriteringar informellt?
+4. Har vi reserverad kapacitet för säkerhet, robusthet, uppgraderingar och avveckling?
+5. Vet utvecklingsteamen vilka plattformsförmågor som kommer när, och varför vissa behov prioriteras före andra?
+6. Har vi mätetal som visar både snabbhet, kvalitet, risk och kostnad?
+7. Finns en beslutad modell för vad som händer när införandeprojektet tar slut?
+8. Vilka mätetal skulle kunna visa om plattformen faktiskt ökar organisationens agila förmåga?
 
 ## Nästa steg
 

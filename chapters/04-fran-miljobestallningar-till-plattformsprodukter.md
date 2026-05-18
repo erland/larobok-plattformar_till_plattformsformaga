@@ -85,6 +85,32 @@ En intern plattformsprodukt kan till exempel vara:
 
 Ledningspoängen är att en intern produkt behöver mandat och finansiering. Den kan inte bara vara ett sidouppdrag för personer som samtidigt förväntas hantera alla akuta driftfrågor.
 
+
+## Exempel: en intern plattformsprodukt
+
+En intern plattformsprodukt behöver vara konkret nog för att utvecklingsteam ska förstå vad de får, och tydlig nog för att drift, säkerhet och ledning ska förstå vilket ansvar som följer med erbjudandet.
+
+Ett exempel hos **Myndigheten för Samhällstjänst** kan vara:
+
+**Standardiserad applikationsyta för containerbaserade tjänster**
+
+Produkten riktar sig till utvecklingsteam som vill köra en ny eller moderniserad tjänst på containerplattformen. Den erbjuder:
+
+- en godkänd grundmall för applikationsyta,
+- standardiserad pipeline för bygg, test och driftsättning,
+- fördefinierade resursgränser,
+- obligatorisk loggning och övervakning,
+- säker hantering av hemligheter,
+- godkända basavbildningar,
+- koppling till incident- och supportmodell,
+- dokumenterad väg för undantag.
+
+Det viktiga är inte att alla detaljer är automatiserade från första dagen. Det viktiga är att erbjudandet har ett tydligt löfte: **om teamet håller sig inom dessa ramar kan det gå snabbare, med mindre manuell koordinering och med bibehållen kontroll**.
+
+Samma produkt behöver också ha gränser. Den kanske inte gäller för system med särskilt höga skyddsvärden, komplexa integrationer mot äldre databaser eller tjänster med särskilda krav på tillgänglighet. Då krävs en annan nivå av prövning.
+
+Ledningens poäng med en sådan produkt är att göra standardvägen attraktiv. Utveckling får en snabbare väg framåt. Drift får färre spretiga beställningar. Säkerhet får inbyggda kontroller. Ledningen får bättre spårbarhet över vad som faktiskt används.
+
 ## Beställningsflödets styrkor och begränsningar
 
 Det är lätt att beskriva beställningsflödet som gammaldags. Det vore fel. Beställningsflödet har flera styrkor, särskilt i organisationer med höga krav på säkerhet och tillgänglighet.
@@ -306,7 +332,7 @@ Diskutera i en ledningsgrupp:
 - Alla behov ska inte bli självservice. Ledningen behöver skilja mellan standard, godkännande, styrd beställning och särskild prövning.
 - Den viktigaste förflyttningen är från “vad vill teamet beställa?” till “vilka återkommande behov ska plattformen lösa på ett standardiserat sätt?”
 
-## Quiz och reflektionsfrågor
+## Kontrollfrågor
 
 1. Vad är den viktigaste skillnaden mellan ett beställningsflöde och en intern plattformsprodukt?
 2. Varför är självservice inte samma sak som frihet utan kontroll?

@@ -313,24 +313,6 @@ Det är lättare att mäta aktivitet än effekt.
 **Hur man undviker det:**  
 Mät både riskreducering och flöde. Följ upp hur tidigt problem upptäcks, hur ofta undantag behövs och vilka kontroller som faktiskt minskar osäkerhet.
 
-## Ledningsbeslut att fatta
-
-För att gå vidare behöver ledningen ta ställning till följande frågor:
-
-1. Vilka säkerhetskrav ska vara obligatoriska för alla plattformstjänster?
-2. Vilka krav ska byggas in i mallar, pipelines och plattform?
-3. Vilka kontroller ska vara automatiska, och vilka kräver manuell bedömning?
-4. Vilka standardfall ska kunna hanteras genom självservice?
-5. Hur ska undantag dokumenteras, tidsbegränsas och följas upp?
-6. Vem äger säkerhetskraven, och vem ansvarar för teknisk realisering?
-7. Hur ska ledningen följa upp att säkerheten förbättras utan att leveransflödet stryps?
-
-Ett användbart ledningsbeslut kan formuleras så här:
-
-> Vi ska öka självservice genom att bygga in säkerhetskrav i plattform och leveransflöden. Standardfall ska kunna gå snabbt inom godkända guardrails. Avvikelser ska hanteras genom spårbar riskacceptans, inte genom informella genvägar.
-
-Det beslutet är inte en teknisk lösning. Det är en riktning som gör tekniska lösningar möjliga.
-
 ## Övningar
 
 ### Övning 1: Klassificera era säkerhetskrav
@@ -368,9 +350,19 @@ Ta ett verkligt eller fiktivt undantag från standard. Skriv ner:
 
 ## Beslut att fatta
 
-- Vilka säkerhetskrav ska vara inbyggda kontroller i plattform och pipelines?
-- Vilka säkerhetsbeslut kräver riskacceptans på ledningsnivå?
+- Vilka säkerhetskrav ska vara obligatoriska för alla plattformstjänster?
+- Vilka krav ska byggas in i mallar, pipelines, behörigheter, loggning och plattform?
+- Vilka kontroller ska vara automatiska, och vilka kräver manuell bedömning?
+- Vilka standardfall ska kunna hanteras genom självservice?
+- Vilka säkerhetsbeslut kräver spårbar riskacceptans på ledningsnivå?
+- Hur ska undantag dokumenteras, tidsbegränsas och följas upp?
 - Hur ska säkerhetsteamets roll förändras från granskande funktion till kravägare, rådgivare och möjliggörare?
+
+Ett användbart ledningsbeslut kan formuleras så här:
+
+> Vi ska öka självservice genom att bygga in säkerhetskrav i plattform och leveransflöden. Standardfall ska kunna gå snabbt inom godkända guardrails. Avvikelser ska hanteras genom spårbar riskacceptans, inte genom informella genvägar.
+
+Det beslutet är inte en teknisk lösning. Det är en riktning som gör tekniska lösningar möjliga.
 
 ## Snabb sammanfattning
 
@@ -382,7 +374,7 @@ Ta ett verkligt eller fiktivt undantag från standard. Skriv ner:
 - Självservice kräver nivåer, standardfall och en tydlig undantagsprocess.
 - Ledningen måste besluta vilken risknivå som accepteras och vilka säkerhetskrav som ska vara obligatoriska.
 
-## Ledningsfrågor
+## Kontrollfrågor
 
 1. Vilka säkerhetskontroller i er organisation sker sent i flödet i dag?
 2. Vilka av dessa kontroller skulle kunna flyttas tidigare eller automatiseras?

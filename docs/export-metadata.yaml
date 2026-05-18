@@ -3,12 +3,12 @@ subtitle: Ledningsstrategier för agilare leverans i stora reglerade organisatio
 author: Erland Lindmark
 language: sv
 difficulty: experienced
-audience: Chefer i stora reglerade organisationer med ansvar för produktion, utveckling,
-  säkerhet, arkitektur, förvaltning eller plattform.
+audience: Chefer i stora reglerade organisationer med ansvar för produktion, utveckling, säkerhet,
+  arkitektur, förvaltning eller plattform.
 book_type: textbook
 edition: '1'
-version: '1.1'
-date: '2026-05-15'
+version: '1.3'
+date: '2026-05-18'
 rights: All rights reserved
 publisher: ''
 cover_image: assets/cover/cover.png
@@ -16,9 +16,9 @@ identifier: urn:uuid:71300143-150d-4683-8c40-f85828c67058
 creator_role: aut
 subject: Ledningsstrategi, plattformsförmåga, containerplattformar, reglerade organisationer,
   agil leverans
-description: En ledningsstrategisk lärobok om hur stora reglerade organisationer kan
-  gå från beställningsflöden till plattformsförmåga, självservice och bättre agil
-  leverans utan att tappa säkerhet, kvalitet, tillgänglighet och robusthet.
+description: En ledningsstrategisk lärobok om hur stora reglerade organisationer kan gå från
+  beställningsflöden till plattformsförmåga, självservice och bättre agil leverans utan att
+  tappa säkerhet, kvalitet, tillgänglighet och robusthet.
 project_slug: fran-plattformar-till-plattformsformaga
 zip_naming:
   initial: fran-plattformar-till-plattformsformaga-projekt.zip

@@ -10,9 +10,9 @@ Målet var inte att skriva om boken från grunden, utan att vässa den för mål
 
 ### 1. Mer chefsanpassat format
 
-Rubriken **Quiz/reflektionsfrågor** har ersatts med **Ledningsfrågor** i kapitel 1–12.
+Rubriken **Quiz/reflektionsfrågor** har ersatts med **Kontrollfrågor** i kapitel 1–12.
 
-Motiv: målgruppen är chefer och ledningsgrupper. “Ledningsfrågor” signalerar beslutsdialog snarare än skolövning.
+Motiv: målgruppen är chefer och ledningsgrupper. “Kontrollfrågor” signalerar beslutsdialog snarare än skolövning.
 
 ### 2. Tydligare handlingsdriv
 

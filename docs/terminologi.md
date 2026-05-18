@@ -52,3 +52,12 @@
 | Plattformsförmåga | Organisationens samlade förmåga att använda plattformen för snabb, säker, robust och styrbar leverans. | Skapar helheten bättre leveransförmåga, eller bara ny teknik? |
 
 Detta är en central distinktion i boken. Ledningen bör inte nöja sig med att fråga om organisationen har en plattform. Den avgörande frågan är om plattformen har blivit en förmåga.
+
+
+## Förtydligad huvudmodell
+
+- **Plattform som teknik:** tekniska komponenter som containerplattform, pipelines, nätverk, lagring, loggning och säkerhetsfunktioner.
+- **Plattformstjänst:** ett avgränsat erbjudande som interna användare kan nyttja, till exempel en standardiserad applikationsyta eller pipeline.
+- **Plattformsprodukt:** en styrd intern produkt med ägare, målgrupp, backlog, supportmodell, finansiering, livscykel och kvalitetskrav.
+- **Plattformsförmåga:** organisationens samlade förmåga att använda plattformar för snabbare, säkrare och mer robust leverans.
+

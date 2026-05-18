@@ -308,7 +308,7 @@ Använd följande frågor i ett ledningsforum:
 - Om målkonflikter delegeras utan beslut skapas friktion mellan utveckling, drift, säkerhet och plattform.
 - Självservice fungerar bara när frihet kombineras med tydliga guardrails, spårbarhet och ansvar.
 
-## Ledningsfrågor
+## Kontrollfrågor
 
 1. Vad är skillnaden mellan att delegera genomförande och att delegera en olöst målkonflikt?
 2. Varför kan inte ett plattformsteam ensamt besluta om risknivån för självservice?

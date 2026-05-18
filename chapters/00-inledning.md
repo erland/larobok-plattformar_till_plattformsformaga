@@ -6,6 +6,20 @@ Det är lätt att beskriva detta som en teknisk fråga. En containerplattform sk
 
 Den här boken utgår från en annan tanke: containerplattformen är inte huvudpersonen. Den är en katalysator. Den gör det tydligt vilka beslut organisationen inte längre kan skjuta framför sig.
 
+## Bokens huvudmodell: från teknik till förmåga
+
+Bokens centrala modell är enkel, men viktig:
+
+1. **Plattform som teknik** – exempelvis containerplattform, CI/CD, nätverk, lagring, loggning och säkerhetskomponenter.
+2. **Plattformstjänst** – ett avgränsat erbjudande som användare kan nyttja, till exempel en standardiserad applikationsyta, en pipeline, en loggningstjänst eller en databaskoppling.
+3. **Plattformsprodukt** – en styrd intern produkt med ägare, målgrupp, backlog, supportmodell, finansiering, livscykel och tydliga kvalitetskrav.
+4. **Plattformsförmåga** – organisationens samlade förmåga att använda plattformar för snabbare, säkrare och mer robust leverans.
+
+Förflyttningen i boken går alltså inte från “gammal teknik” till “ny teknik”. Den går från att se plattformar som komponenter till att bygga en organisatorisk förmåga där utveckling, drift, säkerhet, arkitektur och ledning arbetar med samma spelplan.
+
+Det är först när alla fyra nivåerna hänger ihop som containerplattformen kan ge verklig effekt. Teknik utan tjänster blir svår att använda. Tjänster utan produktansvar blir svåra att utveckla. Produkter utan organisatorisk förmåga blir isolerade initiativ. Plattformsförmåga uppstår när teknik, ansvar, styrning, finansiering, säkerhet och vardagligt arbetssätt stödjer varandra.
+
+
 ## Vem boken är för
 
 Boken är skriven för chefer och ledare i stora reglerade organisationer. Den riktar sig särskilt till dig som har ansvar för produktion, utveckling, säkerhet, arkitektur, förvaltning eller plattform.

@@ -371,7 +371,7 @@ Formulera ett kort ledningsbeslut för en kombinerad väg. Beslutet bör innehå
 - För många stora reglerade organisationer är en kombinerad väg bäst: skyddad start, kontrollerad breddning och planerad normalisering.
 - Ledningen bör mäta förmågeförflyttning, inte bara teknikleverans.
 
-## Ledningsfrågor
+## Kontrollfrågor
 
 1. Vilken är den viktigaste skillnaden mellan greenfield och en parallell organisation?
 2. Varför kan brownfield misslyckas även om det är mer förankrat?

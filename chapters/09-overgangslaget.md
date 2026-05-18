@@ -380,7 +380,7 @@ Beskriv ett beslutsforum för övergångsläget. Ange:
 - Ledningen behöver besluta vad som ska flyttas, vad som ska stanna, vad som ska avvecklas och hur lärdomar ska normaliseras.
 - Varje migrering bör bidra till bättre plattformsförmåga, inte bara till ny teknisk placering.
 
-## Ledningsfrågor
+## Kontrollfrågor
 
 1. Varför är övergångsläget ofta svårare att styra än både nuläge och målbild?
 2. Vad är skillnaden mellan samexistens och oplanerad parallellitet?
